@@ -1,0 +1,62 @@
+# Lista zadań J.Polski
+
+## TODOs
+
+- [ ] Antyk grecko-rzymski
+- [ ] Antyk judeochrześcijański
+- [x] Średniowiecze
+- [x] Renesans
+- [x] Barok
+    - [x] 02-barok-wprowadzenie-do-epoki.md
+    - [x] 03-barok-poezja-metafizyczna.md
+    - [x] 04-barok-poezja-dworksa.md
+    - [x] 05-barok-poezja-wanitatywna.md
+    - [x] 06-barok-sarmatyzm.md
+    - [x] 07-barok-potocki-i-piasek.md
+    - [x] 08-barok-molier.md
+    - [x] 09-barok-sztuka-barokowa.md
+    - [x] 10-barok-filozofia-barokowa.md
+    - [x] 11-barok-srodki-stylistyczne.md
+    - [x] 12-barok-kontekst-maturalny.md
+- [x] Oświecenie **(~ 4H)**
+    - [x] 02-oswiecenie-nurty-oswiecenia.md
+    - [x] 03-oswiecenie-oswiecenie-w-polsce.md
+    - [x] 04-oswiecenie-krasicki-bajki.md
+    - [x] 05-oswiecenie-krasicki-satyry.md
+    - [x] 06-oswiecenie-poemat-heroikomiczny.md
+    - [x] 07-oswiecenie-poezja-patriotyczna.md
+    - [x] 08-oswiecenie-filozofia-oswiecenia.md
+    - [x] 09-oswiecenie-poezja-sentymentalna.md
+    - [x] 10-oswiecenie-kontekst-maturalny.md
+- [x] Romantyzm **(~ 5H)**
+    - [x] 02-romantyzm-charakterystyka-romantyzmu.md
+    - [x] 03-romantyzm-adam-mickiewicz-oda-do-młodości-i-romantyczność.md
+    - [x] 04-romantyzm-adam-mickiewicz-dziady-część-ii.md
+    - [x] 05-romantyzm-adam-mickiewicz-sonety.md
+    - [x] 06-romantyzm-adam-mickiewicz-konrad-wallenrod.md
+    - [x] 07-romantyzm-adam-mickiewicz-dziady-część-iii.md
+    - [x] 08-romantyzm-adam-mickiewicz-pan-tadeusz.md
+    - [x] 09-romantyzm-juliusz-słowacki-hymn-smutno-mi-boże.md
+    - [x] 10-romantyzm-juliusz-słowacki-grób-agamemnona.md
+    - [x] 11-romantyzm-juliusz-słowacki-testament-mój.md
+    - [x] 12-romantyzm-juliusz-słowacki-kordian.md
+    - [x] 13-romantyzm-dramat-romantyczny.md
+    - [x] 14-romantyzm-cyprian-kamil-norwid.md
+    - [x] 15-romantyzm-johann-wolfgang-von-goethe-cierpienia-młodego-wertera.md
+    - [x] 16-romantyzm-kontekst-maturalny.md
+- [ ] Pozytywizm
+    - [x] 08-02-pozytywizm-wstep-do-epoki.md
+    - [x] 08-03-pozytywizm-adam-asnyk.md
+    - [x] 08-04-pozytywizm-boleslaw-prus-lalka.md
+    - [x] 08-05-pozytywizm-nowele.md
+    - [ ] 08-06-pozytywizm-henryk-sienkiewicz-powiesc-historyczna.md
+    - [ ] 08-07-pozytywizm-powiesc-wielkiego-realizmu.md
+    - [ ] 08-08-pozytywizm-eliza-orzeszkowa-gloria-victis.md
+    - [ ] 08-09-pozytywizm-eliza-orzeszkowa-nad-niemnem.md
+    - [ ] 08-10-pozytywizm-joseph-conrad-jadro-ciemnosci.md
+    - [ ] 08-11-pozytywizm-fiodor-dostojewski-zbrodnia-i-kara.md
+    - [ ] 08-12-pozytywizm-kontekst-maturalny.md
+- [ ] Młoda Polska
+- [ ] XX lecie międzywojenne
+- [ ] II Wojna Światowa
+
