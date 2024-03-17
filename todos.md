@@ -49,11 +49,11 @@
     - [x] 08-03-pozytywizm-adam-asnyk.md
     - [x] 08-04-pozytywizm-boleslaw-prus-lalka.md
     - [x] 08-05-pozytywizm-nowele.md
-    - [ ] 08-06-pozytywizm-henryk-sienkiewicz-powiesc-historyczna.md
-    - [ ] 08-07-pozytywizm-powiesc-wielkiego-realizmu.md
-    - [ ] 08-08-pozytywizm-eliza-orzeszkowa-gloria-victis.md
-    - [ ] 08-09-pozytywizm-eliza-orzeszkowa-nad-niemnem.md
-    - [ ] 08-10-pozytywizm-joseph-conrad-jadro-ciemnosci.md
+    - [x] 08-06-pozytywizm-henryk-sienkiewicz-powiesc-historyczna.md
+    - [x] 08-07-pozytywizm-powiesc-wielkiego-realizmu.md
+    - [x] 08-08-pozytywizm-eliza-orzeszkowa-gloria-victis.md
+    - [x] 08-09-pozytywizm-eliza-orzeszkowa-nad-niemnem.md
+    - [x] 08-10-pozytywizm-joseph-conrad-jadro-ciemnosci.md
     - [ ] 08-11-pozytywizm-fiodor-dostojewski-zbrodnia-i-kara.md
     - [ ] 08-12-pozytywizm-kontekst-maturalny.md
 - [ ] Młoda Polska
